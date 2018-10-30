@@ -11,3 +11,4 @@ change 4。
 
 change 5.
 
+Creating a new branch is quick.
